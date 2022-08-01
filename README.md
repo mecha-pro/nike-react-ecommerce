@@ -4,7 +4,7 @@ live server github-pages
 # LIVE bootstrap
  webpage: https://mecha-pro.github.io/nike-react-ecommerce/bootstrap-index-html/index.html
 # LIVE tailwindcss
-webpage live: https://mecha-pro.github.io/nike-react-ecommerce/tailwindcss/index.html
+webpage: https://mecha-pro.github.io/nike-react-ecommerce/tailwindcss/index.html
 # Edit other live webpages: 
 https://mecha-pro.github.io/nike-react-ecommerce/(--folder_Name--)/(--here_add_.html_filename--).html <-- write filename before .html 
 e.g :
